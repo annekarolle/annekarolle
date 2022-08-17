@@ -6,9 +6,9 @@
 
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annekarolle&show_icons=true&theme=gotham)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annekarolle&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&theme=gotham)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&theme=gotham)
 
 ### Technology Stack
 
