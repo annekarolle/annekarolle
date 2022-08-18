@@ -3,6 +3,9 @@
 <h1>Hi! I´m Anne Karolle 👽</h1> 
 <p>I currently study Frontend Web Development at Kenzie Academy Brasil. 🖥️ </p>
 </div></br>
+### Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annekarolle/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annekarolle@gmail.com)
 
 
 ### GitHub Stats
@@ -27,9 +30,7 @@
 </div></br>
 
 
-### Contact
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annekarolle/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annekarolle@gmail.com)
+
 
 
 
