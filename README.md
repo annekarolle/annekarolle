@@ -4,6 +4,8 @@
 <p>I currently study Frontend Web Development at Kenzie Academy Brasil. 🖥️ </p>
 </div></br>
 
+
+
 ### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annekarolle/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annekarolle@gmail.com)
@@ -30,6 +32,11 @@
    
 </div></br>
 
+## Projetos em Grupos 
+
+<p>A kenzieMed é um sistema de agendamento de consultas e exames, facilitando a vida dos médicos e usuários. Esse projeto foi desenvolvido nos modulos M3(frontend) e M4(backend), trabalho feito em grupo. <a href="https://github.com/grupo-1-projeto-frontend-t12
+ ">Clique aqui e confira o projeto por completo! </a>
+</p>
 
 
 
