@@ -1,7 +1,7 @@
 
 <div><br>
 <h1>Hi! I´m Anne Karolle 👽</h1> 
-<p>I currently study Frontend Web Development at Kenzie Academy Brasil. 🖥️ </p>
+<p>I currently study FullStack Web Development at Kenzie Academy Brasil. 🖥️ </p>
 </div></br>
 
 ### Contact
