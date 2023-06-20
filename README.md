@@ -31,10 +31,9 @@
    
 </div></br>
 
-## Projetos em Grupos 
+## Group Projects
 
-<p>A kenzieMed é um sistema de agendamento de consultas e exames, facilitando a vida dos médicos e usuários. Esse projeto foi desenvolvido nos modulos M3(frontend) e M4(backend), trabalho feito em grupo. <a href="https://github.com/grupo-1-projeto-frontend-t12
- ">Clique aqui e confira o projeto por completo! </a>
+<p>kenzieMed is a scheduling system for appointments and exams, making life easier for doctors and users. This project was developed in modules M3 (frontend) and M4 (backend), as a group project. <a href="https://github.com/grupo-1-projeto-frontend-t12](https://github.com/grupo-1-projeto-frontend-t12">Click here to check out the complete project!</a>
 </p>
 
 
