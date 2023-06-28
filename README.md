@@ -33,8 +33,10 @@
 
 ## Group Projects
 
-<p>kenzieMed is a scheduling system for appointments and exams, making life easier for doctors and users. This project was developed in modules M3 (frontend) and M4 (backend), as a group project. <a href="https://github.com/grupo-1-projeto-frontend-t12](https://github.com/grupo-1-projeto-frontend-t12">Click here to check out the complete project!</a>
+<p>kenzieMed is a scheduling system for appointments and exams, making life easier for doctors and users. This project was developed in modules M3 (frontend) and M4 (backend), as a group project. <a href="https://github.com/grupo-1-projeto-frontend-t12">Click here to check out the complete project!</a>
 </p>
+
+<p>G28 - Motors is a Fullstack project for a car sales e-commerce. The project was developed as a group requirement for the completion of the Fullstack Web Development course at Kenzie Academy Brazil. Node.js with Express and TypeScript were used for the back-end, while the front-end was developed using React and TypeScript.  <a href="https://github.com/E-commerce-Motors-g28-t14">Click here to check out the complete project!</a></p>
 
 
 
