@@ -4,7 +4,7 @@
 <p>I currently study FullStack Web Development at Kenzie Academy Brasil. 🖥️ </p>
 </div></br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&theme=dark
+
 
 ### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annekarolle/)
