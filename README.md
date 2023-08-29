@@ -1,7 +1,9 @@
 
 <div><br>
 <h1>Hi! I´m Anne Karolle 👽</h1> 
-<p>I currently study FullStack Web Development at Kenzie Academy Brasil. 🖥️ </p>
+<p>I am a Graphic Designer and Software Developer.
+
+My objective is to combine my design expertise with programming skills to create visually appealing and responsive user interfaces. With a solid foundation in graphic design, I bring a distinct perspective to my development projects.🖥️ </p>
 </div></br>
 
 
