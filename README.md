@@ -14,11 +14,6 @@ My objective is to combine my design expertise with programming skills to create
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annekarolle@gmail.com)
 
 
-### GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&theme=gotham) 
-
 ### Technology Stack
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -34,13 +29,17 @@ My objective is to combine my design expertise with programming skills to create
    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
    <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="TS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 #### Back end Technologies
 <div style="display: flex; flex-direction: row; gap: 5px;">
 <img align="center" alt="TS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+ <img align="center" alt="TS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
      <img align="center" alt="TS" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img align="center" alt="TS" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+ <img align="center" alt="TS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="TS" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
 
