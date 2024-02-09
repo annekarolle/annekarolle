@@ -17,6 +17,12 @@ My objective is to combine my design expertise with programming skills to create
 ### Technology Stack
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&layout=donut&theme=blue-green)](https://github.com/annekarolle/github-readme-stats)
+ 
+
+
 
 #### Front end Technologies
 <div style="display: flex; flex-direction: row; gap: 5px;">
