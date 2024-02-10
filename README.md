@@ -21,6 +21,8 @@ My objective is to combine my design expertise with programming skills to create
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annekarolle&layout=donut&theme=blue-green)](https://github.com/annekarolle/github-readme-stats)
  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annekarolle&theme=blue-green)](https://git.io/streak-stats)
+ 
 
 
 
